@@ -26,6 +26,5 @@ NOTE TO THE EVALUATORS:
 The Code Files Folder contains the Code for the EEG Dataset. 
 The code needs to be verified in the following order: 
 1.) Model Comparison wrt Subjects (This folder needs to be evaluated to confirm an accuracy of more than 70% for subjects considered individually).
-2.) (This folder needs to be evaluated to confirm the accuracy of over 70% for all the subjects considered together).
-
+2.) CNN_LSTM(This file needs to be evaluated to confirm the accuracy of approximately 70% for all the subjects considered together).
 Supporting images have been included and also pasted in the report. 
